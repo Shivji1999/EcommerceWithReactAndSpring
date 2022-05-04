@@ -1,0 +1,34 @@
+.container{
+    padding: 20px;
+}
+.descImg{
+    width: 100%;
+    height: 100vh;
+}
+.detailsHolder{
+    padding: 10px;
+}
+.descTitle{
+    color: aliceblue;
+    font-size: 45px;
+    font-weight: 700;
+}
+.descPrice{
+    color: rgb(0, 77, 0);
+    font-size: 30px;
+    margin-top: 20px;
+}
+.description{
+    font-style: italic;
+    color: aliceblue;
+    margin-top: 20px;
+}
+.btnBuy{
+    width: 100%;
+    margin-top: 40px;
+    background-color: green;
+    color: #fff;
+    border-radius: 10px;
+    border: none;
+    font-size: 30px;
+}
